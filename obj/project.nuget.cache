@@ -1,10 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "swNciNsZUQ6Co0RKnWzPb6HWemBOdcwrKgB/Yd3QLsgZcJ/S3pCIE5tY6dJ2MClO1eClDUQdFZWO5PavBkuAaA==",
+  "dgSpecHash": "k1Hu/9LcdK9GeR8MbtBCEdczf7sGysj6OdbrG9waveHuYO3krYrBaQWM94D9mzosMEjYmtDmpcQIrEwPt3rdZA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\FleetingoldWebAPI\\FleetingoldWebAPI.csproj",
   "expectedPackageFiles": [
-    "D:\\Administrator\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+    "D:\\Administrator\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "D:\\Administrator\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "D:\\Administrator\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
+    "D:\\Administrator\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.4\\swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
+    "D:\\Administrator\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
+    "D:\\Administrator\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.4\\swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
+    "D:\\Administrator\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.4\\swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512"
   ],
   "logs": []
 }
