@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "swNciNsZUQ6Co0RKnWzPb6HWemBOdcwrKgB/Yd3QLsgZcJ/S3pCIE5tY6dJ2MClO1eClDUQdFZWO5PavBkuAaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\FleetingoldWebAPI\\FleetingoldWebAPI.csproj",
+  "expectedPackageFiles": [
+    "D:\\Administrator\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}
