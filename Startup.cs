@@ -31,11 +31,11 @@ namespace FleetingoldWebAPI
             #region ConfigureServices -> Swagger Code
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo 
+                c.SwaggerDoc("v1", new OpenApiInfo
                 {
                     Version = "v1.0.0",
                     Title = "Fleetingold WebApi",
-                    Description = "Fleetingold 开放API" 
+                    Description = "Fleetingold 开放API"
                 });
             });
             #endregion
@@ -47,12 +47,12 @@ namespace FleetingoldWebAPI
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-
-                #region IApplicationBuilder -> Swagger Code
-                app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "WebApi v1"));
-                #endregion
             }
+
+            #region IApplicationBuilder -> Swagger Code
+            app.UseSwagger();
+            app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "WebApi v1"));
+            #endregion
 
             app.UseHttpsRedirection();
 
