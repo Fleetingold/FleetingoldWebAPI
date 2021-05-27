@@ -56,6 +56,10 @@ namespace FleetingoldWebAPI
 
             app.UseHttpsRedirection();
 
+            #region HttpLogging
+            app.UseHttpLogging();
+            #endregion
+
             app.UseRouting();
 
             app.UseAuthorization();
