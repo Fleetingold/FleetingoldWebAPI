@@ -26,3 +26,4 @@ C:\Users\Administrator\source\repos\FleetingoldWebAPI\obj\Debug\net6.0\Fleetingo
 C:\Users\Administrator\source\repos\FleetingoldWebAPI\obj\Debug\net6.0\ref\FleetingoldWebAPI.dll
 C:\Users\Administrator\source\repos\FleetingoldWebAPI\obj\Debug\net6.0\FleetingoldWebAPI.pdb
 C:\Users\Administrator\source\repos\FleetingoldWebAPI\obj\Debug\net6.0\FleetingoldWebAPI.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\FleetingoldWebAPI\bin\Debug\net6.0\launchSettings.json
