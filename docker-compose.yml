@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  fleetingoldwebapi:
+    image: ${DOCKER_REGISTRY-}fleetingoldwebapi
+    build:
+      context: .
+      dockerfile: Dockerfile
